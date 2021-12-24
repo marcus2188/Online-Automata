@@ -1,2 +1,2 @@
 # Online-Automata
-A collection of automation scripts for improving our lives and everything we do digitally. 
+*googleformfillerBravebrowser.py* is a python executable that automatically fills up a google form with all the details specified, with the brave browser auto-popup and auto submits. 
